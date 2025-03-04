@@ -1,2 +1,2 @@
 # Data-Structures-Assignments-CS
-Repo for all Computer Science Students Work
+Repo for Data Structures Assignmnet. 
